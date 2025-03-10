@@ -1,2 +1,2 @@
-# XXS__Attack
+# XSS__Attack
 the program for injection XSS
